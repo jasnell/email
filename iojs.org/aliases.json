@@ -6,5 +6,6 @@
   ] },
 
   { "from": "rvagg", "to": "rod@vagg.org" },
-  { "from": "jbergstroem", "to": "bugs@bergstroem.nu" }
+  { "from": "jbergstroem", "to": "bugs@bergstroem.nu" },
+  { "from": "jasnell", "to": "jasnell@gmail.com" }
 ]
